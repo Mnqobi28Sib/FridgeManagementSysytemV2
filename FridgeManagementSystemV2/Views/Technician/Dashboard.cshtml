@@ -1,0 +1,35 @@
+﻿@model IEnumerable<FridgeManagementSystemV2.Models.MaintenanceVisit>
+
+@{
+    ViewData["Title"] = "Technician Dashboard";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Fridge Model</th>
+            <th>Customer</th>
+            <th>Visit Date</th>
+            <th>Visit Time</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var visit in Model)
+
+        {
+            <tr>
+                <td>@visit.Fridge.ModelNumber</td>
+                <td>@visit.Fridge.Customer.CustomerName @visit.Fridge.Customer.Surname</td>
+                <td>@visit.MainDate.ToShortDateString()</td>
+                <td>@visit.MainTime</td>
+                <td>
+                    <a asp-action="ViewDetails" asp-route-id="@visit.VisitId" class="btn btn-info">Details</a>
+                    <a asp-action="AddService" asp-route-id="@visit.VisitId" class="btn btn-primary">Add Service</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,18 @@
+﻿@model FridgeManagementSystemV2.Models.Technician
+
+<h2>Create Technician</h2>
+<form asp-action="CreateTechnician" method="post">
+    <div>
+        <label>Name</label>
+        <input asp-for="TechName" />
+    </div>
+    <div>
+        <label>Contact Details</label>
+        <input asp-for="TechContactDetails" />
+    </div>
+    <div>
+        <label>Certification Details</label>
+        <input asp-for="TechCertificationDetails" />
+    </div>
+    <button type="submit">Create Technician</button>
+</form>

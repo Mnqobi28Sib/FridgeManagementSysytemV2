@@ -1,0 +1,30 @@
+﻿@model IEnumerable<FridgeManagementSystemV2.Models.MaintenanceVisit>
+
+@{
+    ViewData["Title"] = "Scheduled Visits";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Fridge Model</th>
+            <th>Customer Name</th>
+            <th>Date</th>
+            <th>Time</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var visit in Model)
+
+        {
+            <tr>
+                <td>@visit.Fridge.ModelNumber</td>
+                <td>@visit.Fridge.Customer.CustomerName @visit.Fridge.Customer.Surname</td>
+                <td>@visit.MainDate.ToShortDateString()</td>
+                <td>@visit.MainTime</td>
+            </tr>
+        }
+    </tbody>
+</table>

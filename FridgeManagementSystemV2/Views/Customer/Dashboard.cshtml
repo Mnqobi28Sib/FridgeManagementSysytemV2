@@ -1,0 +1,30 @@
+﻿@{
+    ViewData["Title"] = "Customer Dashboard";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<!-- Button to Add a Fridge -->
+<a asp-action="AddFridge" class="btn btn-primary">Add Fridge</a>
+
+<!-- Fridge List -->
+<table class="table">
+    <thead>
+        <tr>
+            <th>Model Number</th>
+            <th>Serial Number</th>
+            <th>Installation Date</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var fridge in Model)
+
+        {
+            <tr>
+                <td>@fridge.ModelNumber</td>
+                <td>@fridge.SerialNumber</td>
+                <td>@fridge.InstallationDate.ToString("yyyy-MM-dd")</td>
+            </tr>
+        }
+    </tbody>
+</table>

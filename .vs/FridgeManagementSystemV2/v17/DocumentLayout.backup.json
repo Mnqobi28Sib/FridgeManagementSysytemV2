@@ -1,0 +1,578 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sibisi wiseman\\Desktop\\FridgeManagementSystemV2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE4D0A1-F643-4A5E-A609-E587605323FA}|FridgeManagementSystemV2\\FridgeManagementSystemV2.csproj|c:\\users\\sibisi wiseman\\desktop\\fridgemanagementsystemv2\\fridgemanagementsystemv2\\views\\technician\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBE4D0A1-F643-4A5E-A609-E587605323FA}|FridgeManagementSystemV2\\FridgeManagementSystemV2.csproj|solutionrelative:fridgemanagementsystemv2\\views\\technician\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE4D0A1-F643-4A5E-A609-E587605323FA}|FridgeManagementSystemV2\\FridgeManagementSystemV2.csproj|c:\\users\\sibisi wiseman\\desktop\\fridgemanagementsystemv2\\fridgemanagementsystemv2\\controllers\\techniciancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE4D0A1-F643-4A5E-A609-E587605323FA}|FridgeManagementSystemV2\\FridgeManagementSystemV2.csproj|solutionrelative:fridgemanagementsystemv2\\controllers\\techniciancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE4D0A1-F643-4A5E-A609-E587605323FA}|FridgeManagementSystemV2\\FridgeManagementSystemV2.csproj|c:\\users\\sibisi wiseman\\desktop\\fridgemanagementsystemv2\\fridgemanagementsystemv2\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE4D0A1-F643-4A5E-A609-E587605323FA}|FridgeManagementSystemV2\\FridgeManagementSystemV2.csproj|solutionrelative:fridgemanagementsystemv2\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE4D0A1-F643-4A5E-A609-E587605323FA}|FridgeManagementSystemV2\\FridgeManagementSystemV2.csproj|c:\\users\\sibisi wiseman\\desktop\\fridgemanagementsystemv2\\fridgemanagementsystemv2\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBE4D0A1-F643-4A5E-A609-E587605323FA}|FridgeManagementSystemV2\\FridgeManagementSystemV2.csproj|solutionrelative:fridgemanagementsystemv2\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE4D0A1-F643-4A5E-A609-E587605323FA}|FridgeManagementSystemV2\\FridgeManagementSystemV2.csproj|c:\\users\\sibisi wiseman\\desktop\\fridgemanagementsystemv2\\fridgemanagementsystemv2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBE4D0A1-F643-4A5E-A609-E587605323FA}|FridgeManagementSystemV2\\FridgeManagementSystemV2.csproj|solutionrelative:fridgemanagementsystemv2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE4D0A1-F643-4A5E-A609-E587605323FA}|FridgeManagementSystemV2\\FridgeManagementSystemV2.csproj|c:\\users\\sibisi wiseman\\desktop\\fridgemanagementsystemv2\\fridgemanagementsystemv2\\data\\migrations\\20241022142954_addisresolvedtofaultreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE4D0A1-F643-4A5E-A609-E587605323FA}|FridgeManagementSystemV2\\FridgeManagementSystemV2.csproj|solutionrelative:fridgemanagementsystemv2\\data\\migrations\\20241022142954_addisresolvedtofaultreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE4D0A1-F643-4A5E-A609-E587605323FA}|FridgeManagementSystemV2\\FridgeManagementSystemV2.csproj|c:\\users\\sibisi wiseman\\desktop\\fridgemanagementsystemv2\\fridgemanagementsystemv2\\models\\faultreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE4D0A1-F643-4A5E-A609-E587605323FA}|FridgeManagementSystemV2\\FridgeManagementSystemV2.csproj|solutionrelative:fridgemanagementsystemv2\\models\\faultreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE4D0A1-F643-4A5E-A609-E587605323FA}|FridgeManagementSystemV2\\FridgeManagementSystemV2.csproj|c:\\users\\sibisi wiseman\\desktop\\fridgemanagementsystemv2\\fridgemanagementsystemv2\\views\\customer\\fridgehistorycshtml.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBE4D0A1-F643-4A5E-A609-E587605323FA}|FridgeManagementSystemV2\\FridgeManagementSystemV2.csproj|solutionrelative:fridgemanagementsystemv2\\views\\customer\\fridgehistorycshtml.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE4D0A1-F643-4A5E-A609-E587605323FA}|FridgeManagementSystemV2\\FridgeManagementSystemV2.csproj|c:\\users\\sibisi wiseman\\desktop\\fridgemanagementsystemv2\\fridgemanagementsystemv2\\views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBE4D0A1-F643-4A5E-A609-E587605323FA}|FridgeManagementSystemV2\\FridgeManagementSystemV2.csproj|solutionrelative:fridgemanagementsystemv2\\views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE4D0A1-F643-4A5E-A609-E587605323FA}|FridgeManagementSystemV2\\FridgeManagementSystemV2.csproj|c:\\users\\sibisi wiseman\\desktop\\fridgemanagementsystemv2\\fridgemanagementsystemv2\\views\\customer\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBE4D0A1-F643-4A5E-A609-E587605323FA}|FridgeManagementSystemV2\\FridgeManagementSystemV2.csproj|solutionrelative:fridgemanagementsystemv2\\views\\customer\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE4D0A1-F643-4A5E-A609-E587605323FA}|FridgeManagementSystemV2\\FridgeManagementSystemV2.csproj|c:\\users\\sibisi wiseman\\desktop\\fridgemanagementsystemv2\\fridgemanagementsystemv2\\views\\customer\\upcomingvisits.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBE4D0A1-F643-4A5E-A609-E587605323FA}|FridgeManagementSystemV2\\FridgeManagementSystemV2.csproj|solutionrelative:fridgemanagementsystemv2\\views\\customer\\upcomingvisits.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE4D0A1-F643-4A5E-A609-E587605323FA}|FridgeManagementSystemV2\\FridgeManagementSystemV2.csproj|c:\\users\\sibisi wiseman\\desktop\\fridgemanagementsystemv2\\fridgemanagementsystemv2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE4D0A1-F643-4A5E-A609-E587605323FA}|FridgeManagementSystemV2\\FridgeManagementSystemV2.csproj|solutionrelative:fridgemanagementsystemv2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE4D0A1-F643-4A5E-A609-E587605323FA}|FridgeManagementSystemV2\\FridgeManagementSystemV2.csproj|c:\\users\\sibisi wiseman\\desktop\\fridgemanagementsystemv2\\fridgemanagementsystemv2\\views\\technician\\deletefaultreport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBE4D0A1-F643-4A5E-A609-E587605323FA}|FridgeManagementSystemV2\\FridgeManagementSystemV2.csproj|solutionrelative:fridgemanagementsystemv2\\views\\technician\\deletefaultreport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE4D0A1-F643-4A5E-A609-E587605323FA}|FridgeManagementSystemV2\\FridgeManagementSystemV2.csproj|c:\\users\\sibisi wiseman\\desktop\\fridgemanagementsystemv2\\fridgemanagementsystemv2\\views\\technician\\editfaultreport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBE4D0A1-F643-4A5E-A609-E587605323FA}|FridgeManagementSystemV2\\FridgeManagementSystemV2.csproj|solutionrelative:fridgemanagementsystemv2\\views\\technician\\editfaultreport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE4D0A1-F643-4A5E-A609-E587605323FA}|FridgeManagementSystemV2\\FridgeManagementSystemV2.csproj|c:\\users\\sibisi wiseman\\desktop\\fridgemanagementsystemv2\\fridgemanagementsystemv2\\views\\technician\\createfaultreport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBE4D0A1-F643-4A5E-A609-E587605323FA}|FridgeManagementSystemV2\\FridgeManagementSystemV2.csproj|solutionrelative:fridgemanagementsystemv2\\views\\technician\\createfaultreport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE4D0A1-F643-4A5E-A609-E587605323FA}|FridgeManagementSystemV2\\FridgeManagementSystemV2.csproj|c:\\users\\sibisi wiseman\\desktop\\fridgemanagementsystemv2\\fridgemanagementsystemv2\\views\\technician\\viewfaultreports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBE4D0A1-F643-4A5E-A609-E587605323FA}|FridgeManagementSystemV2\\FridgeManagementSystemV2.csproj|solutionrelative:fridgemanagementsystemv2\\views\\technician\\viewfaultreports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE4D0A1-F643-4A5E-A609-E587605323FA}|FridgeManagementSystemV2\\FridgeManagementSystemV2.csproj|c:\\users\\sibisi wiseman\\desktop\\fridgemanagementsystemv2\\fridgemanagementsystemv2\\views\\technician\\scheduledvisits.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBE4D0A1-F643-4A5E-A609-E587605323FA}|FridgeManagementSystemV2\\FridgeManagementSystemV2.csproj|solutionrelative:fridgemanagementsystemv2\\views\\technician\\scheduledvisits.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE4D0A1-F643-4A5E-A609-E587605323FA}|FridgeManagementSystemV2\\FridgeManagementSystemV2.csproj|c:\\users\\sibisi wiseman\\desktop\\fridgemanagementsystemv2\\fridgemanagementsystemv2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBE4D0A1-F643-4A5E-A609-E587605323FA}|FridgeManagementSystemV2\\FridgeManagementSystemV2.csproj|solutionrelative:fridgemanagementsystemv2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE4D0A1-F643-4A5E-A609-E587605323FA}|FridgeManagementSystemV2\\FridgeManagementSystemV2.csproj|c:\\users\\sibisi wiseman\\desktop\\fridgemanagementsystemv2\\fridgemanagementsystemv2\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BBE4D0A1-F643-4A5E-A609-E587605323FA}|FridgeManagementSystemV2\\FridgeManagementSystemV2.csproj|solutionrelative:fridgemanagementsystemv2\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE4D0A1-F643-4A5E-A609-E587605323FA}|FridgeManagementSystemV2\\FridgeManagementSystemV2.csproj|c:\\users\\sibisi wiseman\\desktop\\fridgemanagementsystemv2\\fridgemanagementsystemv2\\models\\technician.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE4D0A1-F643-4A5E-A609-E587605323FA}|FridgeManagementSystemV2\\FridgeManagementSystemV2.csproj|solutionrelative:fridgemanagementsystemv2\\models\\technician.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE4D0A1-F643-4A5E-A609-E587605323FA}|FridgeManagementSystemV2\\FridgeManagementSystemV2.csproj|c:\\users\\sibisi wiseman\\desktop\\fridgemanagementsystemv2\\fridgemanagementsystemv2\\models\\serviceperformed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE4D0A1-F643-4A5E-A609-E587605323FA}|FridgeManagementSystemV2\\FridgeManagementSystemV2.csproj|solutionrelative:fridgemanagementsystemv2\\models\\serviceperformed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE4D0A1-F643-4A5E-A609-E587605323FA}|FridgeManagementSystemV2\\FridgeManagementSystemV2.csproj|c:\\users\\sibisi wiseman\\desktop\\fridgemanagementsystemv2\\fridgemanagementsystemv2\\models\\maintenancevisit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE4D0A1-F643-4A5E-A609-E587605323FA}|FridgeManagementSystemV2\\FridgeManagementSystemV2.csproj|solutionrelative:fridgemanagementsystemv2\\models\\maintenancevisit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE4D0A1-F643-4A5E-A609-E587605323FA}|FridgeManagementSystemV2\\FridgeManagementSystemV2.csproj|c:\\users\\sibisi wiseman\\desktop\\fridgemanagementsystemv2\\fridgemanagementsystemv2\\models\\fridge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE4D0A1-F643-4A5E-A609-E587605323FA}|FridgeManagementSystemV2\\FridgeManagementSystemV2.csproj|solutionrelative:fridgemanagementsystemv2\\models\\fridge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE4D0A1-F643-4A5E-A609-E587605323FA}|FridgeManagementSystemV2\\FridgeManagementSystemV2.csproj|c:\\users\\sibisi wiseman\\desktop\\fridgemanagementsystemv2\\fridgemanagementsystemv2\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE4D0A1-F643-4A5E-A609-E587605323FA}|FridgeManagementSystemV2\\FridgeManagementSystemV2.csproj|solutionrelative:fridgemanagementsystemv2\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE4D0A1-F643-4A5E-A609-E587605323FA}|FridgeManagementSystemV2\\FridgeManagementSystemV2.csproj|c:\\users\\sibisi wiseman\\desktop\\fridgemanagementsystemv2\\fridgemanagementsystemv2\\viewmodels\\techniciandashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE4D0A1-F643-4A5E-A609-E587605323FA}|FridgeManagementSystemV2\\FridgeManagementSystemV2.csproj|solutionrelative:fridgemanagementsystemv2\\viewmodels\\techniciandashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE4D0A1-F643-4A5E-A609-E587605323FA}|FridgeManagementSystemV2\\FridgeManagementSystemV2.csproj|c:\\users\\sibisi wiseman\\desktop\\fridgemanagementsystemv2\\fridgemanagementsystemv2\\viewmodels\\customerdashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE4D0A1-F643-4A5E-A609-E587605323FA}|FridgeManagementSystemV2\\FridgeManagementSystemV2.csproj|solutionrelative:fridgemanagementsystemv2\\viewmodels\\customerdashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE4D0A1-F643-4A5E-A609-E587605323FA}|FridgeManagementSystemV2\\FridgeManagementSystemV2.csproj|c:\\users\\sibisi wiseman\\desktop\\fridgemanagementsystemv2\\fridgemanagementsystemv2\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE4D0A1-F643-4A5E-A609-E587605323FA}|FridgeManagementSystemV2\\FridgeManagementSystemV2.csproj|solutionrelative:fridgemanagementsystemv2\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE4D0A1-F643-4A5E-A609-E587605323FA}|FridgeManagementSystemV2\\FridgeManagementSystemV2.csproj|c:\\users\\sibisi wiseman\\desktop\\fridgemanagementsystemv2\\fridgemanagementsystemv2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBE4D0A1-F643-4A5E-A609-E587605323FA}|FridgeManagementSystemV2\\FridgeManagementSystemV2.csproj|solutionrelative:fridgemanagementsystemv2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE4D0A1-F643-4A5E-A609-E587605323FA}|FridgeManagementSystemV2\\FridgeManagementSystemV2.csproj|c:\\users\\sibisi wiseman\\desktop\\fridgemanagementsystemv2\\fridgemanagementsystemv2\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE4D0A1-F643-4A5E-A609-E587605323FA}|FridgeManagementSystemV2\\FridgeManagementSystemV2.csproj|solutionrelative:fridgemanagementsystemv2\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE4D0A1-F643-4A5E-A609-E587605323FA}|FridgeManagementSystemV2\\FridgeManagementSystemV2.csproj|c:\\users\\sibisi wiseman\\desktop\\fridgemanagementsystemv2\\fridgemanagementsystemv2\\views\\admin\\createtechnician.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBE4D0A1-F643-4A5E-A609-E587605323FA}|FridgeManagementSystemV2\\FridgeManagementSystemV2.csproj|solutionrelative:fridgemanagementsystemv2\\views\\admin\\createtechnician.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE4D0A1-F643-4A5E-A609-E587605323FA}|FridgeManagementSystemV2\\FridgeManagementSystemV2.csproj|c:\\users\\sibisi wiseman\\desktop\\fridgemanagementsystemv2\\fridgemanagementsystemv2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BBE4D0A1-F643-4A5E-A609-E587605323FA}|FridgeManagementSystemV2\\FridgeManagementSystemV2.csproj|solutionrelative:fridgemanagementsystemv2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE4D0A1-F643-4A5E-A609-E587605323FA}|FridgeManagementSystemV2\\FridgeManagementSystemV2.csproj|c:\\users\\sibisi wiseman\\desktop\\fridgemanagementsystemv2\\fridgemanagementsystemv2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE4D0A1-F643-4A5E-A609-E587605323FA}|FridgeManagementSystemV2\\FridgeManagementSystemV2.csproj|solutionrelative:fridgemanagementsystemv2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE4D0A1-F643-4A5E-A609-E587605323FA}|FridgeManagementSystemV2\\FridgeManagementSystemV2.csproj|c:\\users\\sibisi wiseman\\desktop\\fridgemanagementsystemv2\\fridgemanagementsystemv2\\data\\migrations\\20241022014703_initial create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE4D0A1-F643-4A5E-A609-E587605323FA}|FridgeManagementSystemV2\\FridgeManagementSystemV2.csproj|solutionrelative:fridgemanagementsystemv2\\data\\migrations\\20241022014703_initial create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\sibisi wiseman\\Desktop\\FridgeManagementSystemV2\\FridgeManagementSystemV2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FridgeManagementSystemV2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\sibisi wiseman\\Desktop\\FridgeManagementSystemV2\\FridgeManagementSystemV2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FridgeManagementSystemV2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T10:41:34.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\sibisi wiseman\\Desktop\\FridgeManagementSystemV2\\FridgeManagementSystemV2\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "FridgeManagementSystemV2\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\sibisi wiseman\\Desktop\\FridgeManagementSystemV2\\FridgeManagementSystemV2\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "FridgeManagementSystemV2\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T10:43:54.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\sibisi wiseman\\Desktop\\FridgeManagementSystemV2\\FridgeManagementSystemV2\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "FridgeManagementSystemV2\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\sibisi wiseman\\Desktop\\FridgeManagementSystemV2\\FridgeManagementSystemV2\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "FridgeManagementSystemV2\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAAEgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T02:07:11.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TechnicianController.cs",
+              "DocumentMoniker": "C:\\Users\\sibisi wiseman\\Desktop\\FridgeManagementSystemV2\\FridgeManagementSystemV2\\Controllers\\TechnicianController.cs",
+              "RelativeDocumentMoniker": "FridgeManagementSystemV2\\Controllers\\TechnicianController.cs",
+              "ToolTip": "C:\\Users\\sibisi wiseman\\Desktop\\FridgeManagementSystemV2\\FridgeManagementSystemV2\\Controllers\\TechnicianController.cs",
+              "RelativeToolTip": "FridgeManagementSystemV2\\Controllers\\TechnicianController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T02:02:59.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\sibisi wiseman\\Desktop\\FridgeManagementSystemV2\\FridgeManagementSystemV2\\Views\\Technician\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "FridgeManagementSystemV2\\Views\\Technician\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\sibisi wiseman\\Desktop\\FridgeManagementSystemV2\\FridgeManagementSystemV2\\Views\\Technician\\Dashboard.cshtml*",
+              "RelativeToolTip": "FridgeManagementSystemV2\\Views\\Technician\\Dashboard.cshtml*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T13:54:31.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20241022142954_AddIsResolvedToFaultReport.cs",
+              "DocumentMoniker": "C:\\Users\\sibisi wiseman\\Desktop\\FridgeManagementSystemV2\\FridgeManagementSystemV2\\Data\\Migrations\\20241022142954_AddIsResolvedToFaultReport.cs",
+              "RelativeDocumentMoniker": "FridgeManagementSystemV2\\Data\\Migrations\\20241022142954_AddIsResolvedToFaultReport.cs",
+              "ToolTip": "C:\\Users\\sibisi wiseman\\Desktop\\FridgeManagementSystemV2\\FridgeManagementSystemV2\\Data\\Migrations\\20241022142954_AddIsResolvedToFaultReport.cs",
+              "RelativeToolTip": "FridgeManagementSystemV2\\Data\\Migrations\\20241022142954_AddIsResolvedToFaultReport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T14:29:57.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FridgeHistorycshtml.cshtml",
+              "DocumentMoniker": "C:\\Users\\sibisi wiseman\\Desktop\\FridgeManagementSystemV2\\FridgeManagementSystemV2\\Views\\Customer\\FridgeHistorycshtml.cshtml",
+              "RelativeDocumentMoniker": "FridgeManagementSystemV2\\Views\\Customer\\FridgeHistorycshtml.cshtml",
+              "ToolTip": "C:\\Users\\sibisi wiseman\\Desktop\\FridgeManagementSystemV2\\FridgeManagementSystemV2\\Views\\Customer\\FridgeHistorycshtml.cshtml",
+              "RelativeToolTip": "FridgeManagementSystemV2\\Views\\Customer\\FridgeHistorycshtml.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvxcAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T14:08:51.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\sibisi wiseman\\Desktop\\FridgeManagementSystemV2\\FridgeManagementSystemV2\\Views\\Customer\\Create.cshtml",
+              "RelativeDocumentMoniker": "FridgeManagementSystemV2\\Views\\Customer\\Create.cshtml",
+              "ToolTip": "C:\\Users\\sibisi wiseman\\Desktop\\FridgeManagementSystemV2\\FridgeManagementSystemV2\\Views\\Customer\\Create.cshtml",
+              "RelativeToolTip": "FridgeManagementSystemV2\\Views\\Customer\\Create.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T14:21:09.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\sibisi wiseman\\Desktop\\FridgeManagementSystemV2\\FridgeManagementSystemV2\\Views\\Customer\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "FridgeManagementSystemV2\\Views\\Customer\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\sibisi wiseman\\Desktop\\FridgeManagementSystemV2\\FridgeManagementSystemV2\\Views\\Customer\\Dashboard.cshtml",
+              "RelativeToolTip": "FridgeManagementSystemV2\\Views\\Customer\\Dashboard.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T14:05:52.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UpcomingVisits.cshtml",
+              "DocumentMoniker": "C:\\Users\\sibisi wiseman\\Desktop\\FridgeManagementSystemV2\\FridgeManagementSystemV2\\Views\\Customer\\UpcomingVisits.cshtml",
+              "RelativeDocumentMoniker": "FridgeManagementSystemV2\\Views\\Customer\\UpcomingVisits.cshtml",
+              "ToolTip": "C:\\Users\\sibisi wiseman\\Desktop\\FridgeManagementSystemV2\\FridgeManagementSystemV2\\Views\\Customer\\UpcomingVisits.cshtml",
+              "RelativeToolTip": "FridgeManagementSystemV2\\Views\\Customer\\UpcomingVisits.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T14:07:39.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\sibisi wiseman\\Desktop\\FridgeManagementSystemV2\\FridgeManagementSystemV2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FridgeManagementSystemV2\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\sibisi wiseman\\Desktop\\FridgeManagementSystemV2\\FridgeManagementSystemV2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FridgeManagementSystemV2\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T10:39:45.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FaultReport.cs",
+              "DocumentMoniker": "C:\\Users\\sibisi wiseman\\Desktop\\FridgeManagementSystemV2\\FridgeManagementSystemV2\\Models\\FaultReport.cs",
+              "RelativeDocumentMoniker": "FridgeManagementSystemV2\\Models\\FaultReport.cs",
+              "ToolTip": "C:\\Users\\sibisi wiseman\\Desktop\\FridgeManagementSystemV2\\FridgeManagementSystemV2\\Models\\FaultReport.cs",
+              "RelativeToolTip": "FridgeManagementSystemV2\\Models\\FaultReport.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowBYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T01:23:27.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "deleteFaultReport.cshtml",
+              "DocumentMoniker": "C:\\Users\\sibisi wiseman\\Desktop\\FridgeManagementSystemV2\\FridgeManagementSystemV2\\Views\\Technician\\deleteFaultReport.cshtml",
+              "RelativeDocumentMoniker": "FridgeManagementSystemV2\\Views\\Technician\\deleteFaultReport.cshtml",
+              "ToolTip": "C:\\Users\\sibisi wiseman\\Desktop\\FridgeManagementSystemV2\\FridgeManagementSystemV2\\Views\\Technician\\deleteFaultReport.cshtml",
+              "RelativeToolTip": "FridgeManagementSystemV2\\Views\\Technician\\deleteFaultReport.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T14:01:34.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EditFaultReport.cshtml",
+              "DocumentMoniker": "C:\\Users\\sibisi wiseman\\Desktop\\FridgeManagementSystemV2\\FridgeManagementSystemV2\\Views\\Technician\\EditFaultReport.cshtml",
+              "RelativeDocumentMoniker": "FridgeManagementSystemV2\\Views\\Technician\\EditFaultReport.cshtml",
+              "ToolTip": "C:\\Users\\sibisi wiseman\\Desktop\\FridgeManagementSystemV2\\FridgeManagementSystemV2\\Views\\Technician\\EditFaultReport.cshtml",
+              "RelativeToolTip": "FridgeManagementSystemV2\\Views\\Technician\\EditFaultReport.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T14:00:23.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateFaultReport.cshtml",
+              "DocumentMoniker": "C:\\Users\\sibisi wiseman\\Desktop\\FridgeManagementSystemV2\\FridgeManagementSystemV2\\Views\\Technician\\CreateFaultReport.cshtml",
+              "RelativeDocumentMoniker": "FridgeManagementSystemV2\\Views\\Technician\\CreateFaultReport.cshtml",
+              "ToolTip": "C:\\Users\\sibisi wiseman\\Desktop\\FridgeManagementSystemV2\\FridgeManagementSystemV2\\Views\\Technician\\CreateFaultReport.cshtml",
+              "RelativeToolTip": "FridgeManagementSystemV2\\Views\\Technician\\CreateFaultReport.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T13:58:13.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ViewFaultReports.cshtml",
+              "DocumentMoniker": "C:\\Users\\sibisi wiseman\\Desktop\\FridgeManagementSystemV2\\FridgeManagementSystemV2\\Views\\Technician\\ViewFaultReports.cshtml",
+              "RelativeDocumentMoniker": "FridgeManagementSystemV2\\Views\\Technician\\ViewFaultReports.cshtml",
+              "ToolTip": "C:\\Users\\sibisi wiseman\\Desktop\\FridgeManagementSystemV2\\FridgeManagementSystemV2\\Views\\Technician\\ViewFaultReports.cshtml",
+              "RelativeToolTip": "FridgeManagementSystemV2\\Views\\Technician\\ViewFaultReports.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T13:57:09.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ScheduledVisits.cshtml",
+              "DocumentMoniker": "C:\\Users\\sibisi wiseman\\Desktop\\FridgeManagementSystemV2\\FridgeManagementSystemV2\\Views\\Technician\\ScheduledVisits.cshtml",
+              "RelativeDocumentMoniker": "FridgeManagementSystemV2\\Views\\Technician\\ScheduledVisits.cshtml",
+              "ToolTip": "C:\\Users\\sibisi wiseman\\Desktop\\FridgeManagementSystemV2\\FridgeManagementSystemV2\\Views\\Technician\\ScheduledVisits.cshtml",
+              "RelativeToolTip": "FridgeManagementSystemV2\\Views\\Technician\\ScheduledVisits.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T13:56:05.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\sibisi wiseman\\Desktop\\FridgeManagementSystemV2\\FridgeManagementSystemV2\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "FridgeManagementSystemV2\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\sibisi wiseman\\Desktop\\FridgeManagementSystemV2\\FridgeManagementSystemV2\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "FridgeManagementSystemV2\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAADwAAAAAAAAAAAAowFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-10-22T13:11:44.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sibisi wiseman\\Desktop\\FridgeManagementSystemV2\\FridgeManagementSystemV2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FridgeManagementSystemV2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sibisi wiseman\\Desktop\\FridgeManagementSystemV2\\FridgeManagementSystemV2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FridgeManagementSystemV2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T10:38:45.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Technician.cs",
+              "DocumentMoniker": "C:\\Users\\sibisi wiseman\\Desktop\\FridgeManagementSystemV2\\FridgeManagementSystemV2\\Models\\Technician.cs",
+              "RelativeDocumentMoniker": "FridgeManagementSystemV2\\Models\\Technician.cs",
+              "ToolTip": "C:\\Users\\sibisi wiseman\\Desktop\\FridgeManagementSystemV2\\FridgeManagementSystemV2\\Models\\Technician.cs",
+              "RelativeToolTip": "FridgeManagementSystemV2\\Models\\Technician.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T01:06:30.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ServicePerformed.cs",
+              "DocumentMoniker": "C:\\Users\\sibisi wiseman\\Desktop\\FridgeManagementSystemV2\\FridgeManagementSystemV2\\Models\\ServicePerformed.cs",
+              "RelativeDocumentMoniker": "FridgeManagementSystemV2\\Models\\ServicePerformed.cs",
+              "ToolTip": "C:\\Users\\sibisi wiseman\\Desktop\\FridgeManagementSystemV2\\FridgeManagementSystemV2\\Models\\ServicePerformed.cs",
+              "RelativeToolTip": "FridgeManagementSystemV2\\Models\\ServicePerformed.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T01:22:00.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MaintenanceVisit.cs",
+              "DocumentMoniker": "C:\\Users\\sibisi wiseman\\Desktop\\FridgeManagementSystemV2\\FridgeManagementSystemV2\\Models\\MaintenanceVisit.cs",
+              "RelativeDocumentMoniker": "FridgeManagementSystemV2\\Models\\MaintenanceVisit.cs",
+              "ToolTip": "C:\\Users\\sibisi wiseman\\Desktop\\FridgeManagementSystemV2\\FridgeManagementSystemV2\\Models\\MaintenanceVisit.cs",
+              "RelativeToolTip": "FridgeManagementSystemV2\\Models\\MaintenanceVisit.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA5wBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T01:30:00.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Fridge.cs",
+              "DocumentMoniker": "C:\\Users\\sibisi wiseman\\Desktop\\FridgeManagementSystemV2\\FridgeManagementSystemV2\\Models\\Fridge.cs",
+              "RelativeDocumentMoniker": "FridgeManagementSystemV2\\Models\\Fridge.cs",
+              "ToolTip": "C:\\Users\\sibisi wiseman\\Desktop\\FridgeManagementSystemV2\\FridgeManagementSystemV2\\Models\\Fridge.cs",
+              "RelativeToolTip": "FridgeManagementSystemV2\\Models\\Fridge.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAowB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T01:18:32.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\sibisi wiseman\\Desktop\\FridgeManagementSystemV2\\FridgeManagementSystemV2\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "FridgeManagementSystemV2\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\sibisi wiseman\\Desktop\\FridgeManagementSystemV2\\FridgeManagementSystemV2\\Models\\Customer.cs",
+              "RelativeToolTip": "FridgeManagementSystemV2\\Models\\Customer.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA9wBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T01:14:04.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TechnicianDashboardViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\sibisi wiseman\\Desktop\\FridgeManagementSystemV2\\FridgeManagementSystemV2\\ViewModels\\TechnicianDashboardViewModel.cs",
+              "RelativeDocumentMoniker": "FridgeManagementSystemV2\\ViewModels\\TechnicianDashboardViewModel.cs",
+              "ToolTip": "C:\\Users\\sibisi wiseman\\Desktop\\FridgeManagementSystemV2\\FridgeManagementSystemV2\\ViewModels\\TechnicianDashboardViewModel.cs",
+              "RelativeToolTip": "FridgeManagementSystemV2\\ViewModels\\TechnicianDashboardViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T11:03:15.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CustomerDashboardViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\sibisi wiseman\\Desktop\\FridgeManagementSystemV2\\FridgeManagementSystemV2\\ViewModels\\CustomerDashboardViewModel.cs",
+              "RelativeDocumentMoniker": "FridgeManagementSystemV2\\ViewModels\\CustomerDashboardViewModel.cs",
+              "ToolTip": "C:\\Users\\sibisi wiseman\\Desktop\\FridgeManagementSystemV2\\FridgeManagementSystemV2\\ViewModels\\CustomerDashboardViewModel.cs",
+              "RelativeToolTip": "FridgeManagementSystemV2\\ViewModels\\CustomerDashboardViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T11:01:17.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\sibisi wiseman\\Desktop\\FridgeManagementSystemV2\\FridgeManagementSystemV2\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "FridgeManagementSystemV2\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\sibisi wiseman\\Desktop\\FridgeManagementSystemV2\\FridgeManagementSystemV2\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "FridgeManagementSystemV2\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T09:30:51.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\sibisi wiseman\\Desktop\\FridgeManagementSystemV2\\FridgeManagementSystemV2\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "FridgeManagementSystemV2\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\sibisi wiseman\\Desktop\\FridgeManagementSystemV2\\FridgeManagementSystemV2\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "FridgeManagementSystemV2\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T10:37:55.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sibisi wiseman\\Desktop\\FridgeManagementSystemV2\\FridgeManagementSystemV2\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "FridgeManagementSystemV2\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\sibisi wiseman\\Desktop\\FridgeManagementSystemV2\\FridgeManagementSystemV2\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "FridgeManagementSystemV2\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA4wBwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T01:26:35.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CreateTechnician.cshtml",
+              "DocumentMoniker": "C:\\Users\\sibisi wiseman\\Desktop\\FridgeManagementSystemV2\\FridgeManagementSystemV2\\Views\\Admin\\CreateTechnician.cshtml",
+              "RelativeDocumentMoniker": "FridgeManagementSystemV2\\Views\\Admin\\CreateTechnician.cshtml",
+              "ToolTip": "C:\\Users\\sibisi wiseman\\Desktop\\FridgeManagementSystemV2\\FridgeManagementSystemV2\\Views\\Admin\\CreateTechnician.cshtml",
+              "RelativeToolTip": "FridgeManagementSystemV2\\Views\\Admin\\CreateTechnician.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-22T10:10:48.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sibisi wiseman\\Desktop\\FridgeManagementSystemV2\\FridgeManagementSystemV2\\Program.cs",
+              "RelativeDocumentMoniker": "FridgeManagementSystemV2\\Program.cs",
+              "ToolTip": "C:\\Users\\sibisi wiseman\\Desktop\\FridgeManagementSystemV2\\FridgeManagementSystemV2\\Program.cs",
+              "RelativeToolTip": "FridgeManagementSystemV2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T01:36:37.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sibisi wiseman\\Desktop\\FridgeManagementSystemV2\\FridgeManagementSystemV2\\appsettings.json",
+              "RelativeDocumentMoniker": "FridgeManagementSystemV2\\appsettings.json",
+              "ToolTip": "C:\\Users\\sibisi wiseman\\Desktop\\FridgeManagementSystemV2\\FridgeManagementSystemV2\\appsettings.json",
+              "RelativeToolTip": "FridgeManagementSystemV2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-22T01:37:53.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20241022014703_Initial Create.cs",
+              "DocumentMoniker": "C:\\Users\\sibisi wiseman\\Desktop\\FridgeManagementSystemV2\\FridgeManagementSystemV2\\Data\\Migrations\\20241022014703_Initial Create.cs",
+              "RelativeDocumentMoniker": "FridgeManagementSystemV2\\Data\\Migrations\\20241022014703_Initial Create.cs",
+              "ToolTip": "C:\\Users\\sibisi wiseman\\Desktop\\FridgeManagementSystemV2\\FridgeManagementSystemV2\\Data\\Migrations\\20241022014703_Initial Create.cs",
+              "RelativeToolTip": "FridgeManagementSystemV2\\Data\\Migrations\\20241022014703_Initial Create.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T01:47:04.245Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

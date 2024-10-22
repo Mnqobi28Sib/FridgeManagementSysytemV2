@@ -1,0 +1,37 @@
+﻿@model IEnumerable<FridgeManagementSystemV2.Models.FaultReport>
+
+@{
+    ViewData["Title"] = "View Fault Reports";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<a asp-action="CreateFaultReport" class="btn btn-primary">Create New Fault Report</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Fridge Model</th>
+            <th>Customer Name</th>
+            <th>Report Description</th>
+            <th>Report Date</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var report in Model)
+
+        {
+            <tr>
+                <td>@report.Fridge.ModelNumber</td>
+                <td>@report.Fridge.Customer.CustomerName @report.Fridge.Customer.Surname</td>
+                <td>@report.ReportDesc</td>
+                <td>@report.ReportDate.ToShortDateString()</td>
+                <td>
+                    <a asp-action="EditFaultReport" asp-route-id="@report.ReportId" class="btn btn-warning">Edit</a>
+                    <a asp-action="DeleteFaultReport" asp-route-id="@report.ReportId" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

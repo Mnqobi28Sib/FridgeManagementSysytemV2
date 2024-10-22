@@ -1,0 +1,25 @@
+﻿@model FridgeManagementSystemV2.Models.FaultReport
+
+@{
+    ViewData["Title"] = "Edit Fault Report";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form asp-action="EditFaultReport" method="post">
+    <input type="hidden" asp-for="ReportId" />
+
+    <div class="form-group">
+        <label asp-for="FridgeId"></label>
+        <select asp-for="FridgeId" class="form-control" asp-items="@(new SelectList(ViewBag.Fridges, "FridgeId", "ModelNumber", Model.FridgeId))"></select>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="ReportDesc"></label>
+        <input asp-for="ReportDesc" class="form-control" />
+        <span asp-validation-for="ReportDesc" class="text-danger"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Save Changes</button>
+    <a asp-action="ViewFaultReports" class="btn btn-secondary">Cancel</a>
+</form>

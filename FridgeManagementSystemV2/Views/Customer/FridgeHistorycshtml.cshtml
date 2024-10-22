@@ -1,0 +1,28 @@
+﻿@model IEnumerable<FridgeManagementSystemV2.Models.FaultReport>
+
+@{
+    ViewData["Title"] = "Fridge History";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Description</th>
+            <th>Report Date</th>
+            <th>Status</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var report in Model)
+
+        {
+            <tr>
+                <td>@report.ReportDesc</td>
+                <td>@report.ReportDate.ToShortDateString()</td>
+                <td>@(report.IsResolved ? "Resolved" : "Pending")</td>
+            </tr>
+        }
+    </tbody>
+</table>

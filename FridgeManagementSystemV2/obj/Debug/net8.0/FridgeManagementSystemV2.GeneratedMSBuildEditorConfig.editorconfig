@@ -1,0 +1,111 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = FridgeManagementSystemV2
+build_property.RootNamespace = FridgeManagementSystemV2
+build_property.ProjectDir = C:\Users\sibisi wiseman\Desktop\FridgeManagementSystemV2\FridgeManagementSystemV2\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\sibisi wiseman\Desktop\FridgeManagementSystemV2\FridgeManagementSystemV2
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/sibisi wiseman/Desktop/FridgeManagementSystemV2/FridgeManagementSystemV2/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sibisi wiseman/Desktop/FridgeManagementSystemV2/FridgeManagementSystemV2/Views/Admin/CreateTechnician.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ3JlYXRlVGVjaG5pY2lhbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sibisi wiseman/Desktop/FridgeManagementSystemV2/FridgeManagementSystemV2/Views/Customer/AddFridge.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcQWRkRnJpZGdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sibisi wiseman/Desktop/FridgeManagementSystemV2/FridgeManagementSystemV2/Views/Customer/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sibisi wiseman/Desktop/FridgeManagementSystemV2/FridgeManagementSystemV2/Views/Customer/Dashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcRGFzaGJvYXJkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sibisi wiseman/Desktop/FridgeManagementSystemV2/FridgeManagementSystemV2/Views/Customer/FridgeHistorycshtml.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcRnJpZGdlSGlzdG9yeWNzaHRtbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sibisi wiseman/Desktop/FridgeManagementSystemV2/FridgeManagementSystemV2/Views/Customer/UpcomingVisits.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcVXBjb21pbmdWaXNpdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sibisi wiseman/Desktop/FridgeManagementSystemV2/FridgeManagementSystemV2/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sibisi wiseman/Desktop/FridgeManagementSystemV2/FridgeManagementSystemV2/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sibisi wiseman/Desktop/FridgeManagementSystemV2/FridgeManagementSystemV2/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sibisi wiseman/Desktop/FridgeManagementSystemV2/FridgeManagementSystemV2/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sibisi wiseman/Desktop/FridgeManagementSystemV2/FridgeManagementSystemV2/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sibisi wiseman/Desktop/FridgeManagementSystemV2/FridgeManagementSystemV2/Views/Technician/CreateFaultReport.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVjaG5pY2lhblxDcmVhdGVGYXVsdFJlcG9ydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sibisi wiseman/Desktop/FridgeManagementSystemV2/FridgeManagementSystemV2/Views/Technician/Dashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVjaG5pY2lhblxEYXNoYm9hcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sibisi wiseman/Desktop/FridgeManagementSystemV2/FridgeManagementSystemV2/Views/Technician/deleteFaultReport.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVjaG5pY2lhblxkZWxldGVGYXVsdFJlcG9ydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sibisi wiseman/Desktop/FridgeManagementSystemV2/FridgeManagementSystemV2/Views/Technician/EditFaultReport.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVjaG5pY2lhblxFZGl0RmF1bHRSZXBvcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sibisi wiseman/Desktop/FridgeManagementSystemV2/FridgeManagementSystemV2/Views/Technician/ScheduledVisits.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVjaG5pY2lhblxTY2hlZHVsZWRWaXNpdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sibisi wiseman/Desktop/FridgeManagementSystemV2/FridgeManagementSystemV2/Views/Technician/ViewFaultReports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVjaG5pY2lhblxWaWV3RmF1bHRSZXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sibisi wiseman/Desktop/FridgeManagementSystemV2/FridgeManagementSystemV2/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sibisi wiseman/Desktop/FridgeManagementSystemV2/FridgeManagementSystemV2/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sibisi wiseman/Desktop/FridgeManagementSystemV2/FridgeManagementSystemV2/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-66698rl8i7
